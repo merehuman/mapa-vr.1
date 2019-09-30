@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.mapavr.1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Owner\\Documents\\GitHub\\mapa-vr.1\\mapa-vr.1\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "mapa-vr.1 [Testing]"
+        }
+      }
+    }
+  ]
+}
